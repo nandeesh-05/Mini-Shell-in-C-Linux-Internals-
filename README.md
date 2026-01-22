@@ -25,14 +25,14 @@ Using Makefile:
 
 ```bash
 make
-./mininishell
+./minishell
 ```
 
 Or compile manually:
 
 ````bash
-gcc *.c -o mininishell
-./mininishell
+gcc *.c -o minishell
+./minishell
 ````
 
 ## ⚙️ Project Flow
